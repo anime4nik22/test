@@ -54,10 +54,8 @@ html{
 *, *::before, *::after{
     box-sizing: inherit;
 }
-.item{
-    width: 500px;
-    height: 700px;
-    background-color:#19171A;
-    padding: 40px;
-    padding-color:#EFEFEF;
+.wraper{
+    max-width: 1580px;
+    margin: 0 auto;
+     
 }
