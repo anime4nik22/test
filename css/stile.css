@@ -59,6 +59,20 @@ html{
     margin: 0 auto;
 
 }
+.body{
+    font-family: 'Gilroy';
+    font-weight: 400;
+    font-style: normal;
+    font-size: 23px;
+    line-height: 1,5;
+    color: #757475;
+
+}
 .header{
     background-color: black;
+}
+.header__wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
 }
