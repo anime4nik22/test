@@ -54,8 +54,11 @@ html{
 *, *::before, *::after{
     box-sizing: inherit;
 }
-.wraper{
+.wrapper{
     max-width: 1580px;
     margin: 0 auto;
-     
+
+}
+.header{
+    background-color: black;
 }
